@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrrohit472
 - 👀 I’m interested in development
-- 🌱 I’m currently learning c++ & java etc
+- 🌱 I’m currently persuing last year of Computer Engineering.
 
 <!---
 mrrohit472/mrrohit472 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
